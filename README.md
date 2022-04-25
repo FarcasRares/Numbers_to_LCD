@@ -4,7 +4,6 @@ This code in Java will read a file "numbersIN.txt" and will output the numbers i
 Each digit is 3 lines high.
 <br></br>
 <h1>Example:</h1>
-<br></br>
 <h4>Input:</h4>
 <img src="https://github.com/FarcasRares/Numbers_to_LCD/blob/main/Images/in.png">
 <br></br>
