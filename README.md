@@ -6,7 +6,6 @@ Each digit is 3 lines high.
 <h1>Example:</h1>
 <h4>Input:</h4>
 <img src="https://github.com/FarcasRares/Numbers_to_LCD/blob/main/Images/in.png">
-<br></br>
 <h4>Output:</h4>
 <img src="https://github.com/FarcasRares/Numbers_to_LCD/blob/main/Images/out.png">
 
