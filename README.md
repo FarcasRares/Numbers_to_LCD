@@ -5,9 +5,9 @@ Each digit is 3 lines high.
 <br></br>
 <h1>Example:</h1>
 <br></br>
-<h2>Input:</h2>
+<h4>Input:</h4>
 <img src="https://github.com/FarcasRares/Numbers_to_LCD/blob/main/Images/in.png">
 <br></br>
-<h2>Output:</h2>
+<h4>Output:</h4>
 <img src="https://github.com/FarcasRares/Numbers_to_LCD/blob/main/Images/out.png">
 
