@@ -5,11 +5,11 @@ Each digit is 3 lines high.
 <br></br>
 Example:
 <br></br>
-Input:
+<h2>Input:</h2>
 <br></br>
 <img src="https://github.com/FarcasRares/Numbers_to_LCD/blob/main/Images/in.png">
 <br></br>
-Output:
+<h2>Output:</h2>
 <br></br>
 <img src="https://github.com/FarcasRares/Numbers_to_LCD/blob/main/Images/out.png">
 
